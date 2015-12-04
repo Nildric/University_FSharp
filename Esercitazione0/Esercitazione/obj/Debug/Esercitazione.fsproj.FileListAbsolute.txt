@@ -1,0 +1,10 @@
+C:\Users\Nildric\Desktop\Esercitazione0\Esercitazione\bin\Debug\Correttore.exe
+C:\Users\Nildric\Desktop\Esercitazione0\Esercitazione\bin\Debug\Correttore.exe.config
+C:\Users\Nildric\Desktop\Esercitazione0\Esercitazione\bin\Debug\Esercitazione.exe.config
+C:\Users\Nildric\Desktop\Esercitazione0\Esercitazione\bin\Debug\Esercitazione.XML
+C:\Users\Nildric\Desktop\Esercitazione0\Esercitazione\bin\Debug\Esercitazione.exe
+C:\Users\Nildric\Desktop\Esercitazione0\Esercitazione\bin\Debug\Esercitazione.pdb
+C:\Users\Nildric\Desktop\Esercitazione0\Esercitazione\bin\Debug\FSharp.Core.dll
+C:\Users\Nildric\Desktop\Esercitazione0\Esercitazione\bin\Debug\FSharp.Core.xml
+C:\Users\Nildric\Desktop\Esercitazione0\Esercitazione\obj\Debug\Esercitazione.exe
+C:\Users\Nildric\Desktop\Esercitazione0\Esercitazione\obj\Debug\Esercitazione.pdb

@@ -1,0 +1,10 @@
+D:\Workspace\F#\Esercitazione3\Esercitazione\bin\Debug\Correttore.exe.config
+D:\Workspace\F#\Esercitazione3\Esercitazione\bin\Debug\Correttore.exe
+D:\Workspace\F#\Esercitazione3\Esercitazione\bin\Debug\Esercitazione.exe.config
+D:\Workspace\F#\Esercitazione3\Esercitazione\bin\Debug\Esercitazione.XML
+D:\Workspace\F#\Esercitazione3\Esercitazione\bin\Debug\Esercitazione.exe
+D:\Workspace\F#\Esercitazione3\Esercitazione\bin\Debug\Esercitazione.pdb
+D:\Workspace\F#\Esercitazione3\Esercitazione\bin\Debug\FSharp.Core.dll
+D:\Workspace\F#\Esercitazione3\Esercitazione\bin\Debug\FSharp.Core.xml
+D:\Workspace\F#\Esercitazione3\Esercitazione\obj\Debug\Esercitazione.exe
+D:\Workspace\F#\Esercitazione3\Esercitazione\obj\Debug\Esercitazione.pdb
